@@ -1,0 +1,1 @@
+# spk-metode-trend-moment
